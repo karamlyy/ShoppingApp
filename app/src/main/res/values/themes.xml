@@ -17,7 +17,7 @@
 
 
     <style name="Base.Theme.ShopApp" parent="Theme.Material3.DayNight">
-        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimary">#FC6828</item>
 
         <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
 

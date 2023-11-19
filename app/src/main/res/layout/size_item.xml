@@ -5,18 +5,16 @@
     android:layout_height="wrap_content">
 
 
-    <com.google.android.material.button.MaterialButton
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnSizeItem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/dp_5"
-        android:background="@drawable/custom_bg2"
+        android:background="@drawable/custom_button"
         android:padding="@dimen/dp_5"
         android:text="Deep"
-
-
+        android:layout_marginStart="10dp"
         android:textAllCaps="false"
-        android:textColor="#000000"
+        android:textColor="#FFFFFF"
         app:layout_constraintDimensionRatio="1:1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

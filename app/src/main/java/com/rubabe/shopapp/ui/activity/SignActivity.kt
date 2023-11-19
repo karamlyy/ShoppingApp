@@ -12,7 +12,5 @@ class SignActivity : AppCompatActivity() {
         setContentView(R.layout.activity_sign)
     }
 
-     /*  override fun onBackPressed() {
-            finish() // Finish the activity, which will exit the app
-        }*/
+
 }
